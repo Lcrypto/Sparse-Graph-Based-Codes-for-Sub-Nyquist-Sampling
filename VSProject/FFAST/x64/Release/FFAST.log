@@ -1,0 +1,64 @@
+﻿  backend.cpp
+  binprocessor.cpp
+  chrono.cpp
+  config.cpp
+  Importing getopt library
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(84): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(205): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(636): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(650): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(652): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\config.cpp(662): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  customizedinput.cpp
+  customizedoutput.cpp
+  experimentinput.cpp
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\experimentinput.cpp(101): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  experimentoutput.cpp
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\experimentoutput.cpp(186): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\experimentoutput.cpp(193): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\experimentoutput.cpp(198): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ffast.cpp
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\ffast.cpp(45): warning C4129: '%': unrecognized character escape sequence
+  fftw.cpp
+  frontend.cpp
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\frontend.cpp(106): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\frontend.cpp(141): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  input.cpp
+  lcm.cpp
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\lcm.cpp(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  output.cpp
+  split.cpp
+  XGetopt.c
+  Importing getopt library
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(50): warning C4273: 'optind': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(86): note: see previous definition of 'optind'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(51): warning C4273: 'opterr': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(87): note: see previous definition of 'opterr'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(52): warning C4273: 'optopt': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(88): note: see previous definition of 'optopt'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(74): warning C4273: 'optarg_a': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(98): note: see previous definition of 'optarg_a'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(495): warning C4273: 'getopt_a': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(99): note: see previous definition of 'getopt_a'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(499): warning C4273: 'getopt_long_a': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(100): note: see previous definition of 'getopt_long_a'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(503): warning C4273: 'getopt_long_only_a': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(101): note: see previous definition of 'getopt_long_only_a'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(534): warning C4273: 'optarg_w': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(111): note: see previous definition of 'optarg_w'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(955): warning C4273: 'getopt_w': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(112): note: see previous definition of 'getopt_w'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(959): warning C4273: 'getopt_long_w': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(113): note: see previous definition of 'getopt_long_w'
+C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\src\FFAST\XGetopt.c(963): warning C4273: 'getopt_long_only_w': inconsistent dll linkage
+  C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\include\XGetopt.h(114): note: see previous definition of 'getopt_long_only_w'
+     Creating library C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\VSProject\x64\Release\FFAST.lib and object C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\VSProject\x64\Release\FFAST.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1696 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FFAST.vcxproj -> C:\Users\Besel\SkyDrive\Документы\FFAST_Work-master\FFAST_Work-master\FFAST-master\FFAST-master\VSProject\x64\Release\FFAST.exe
