@@ -1,7 +1,9 @@
 # Sparse-Graph-Based-Codes-for-Sub-Nyquist-Sampling
 FFAST: https://www.eecs.berkeley.edu/~kannanr/project_ffft.html
 previous name Pulse see Phd Thesis EECS-2013-215.pdf
-It otstanding result related to Coding Theory, Sampling Theory und Comressed Sensing under Expander ( RIP-2).
+
+
+It otstanding method related to Coding Theory, Sampling Theory und Comressed Sensing under Expander ( RIP-2).
 For detail see lecture from NASIT 2019 Padovani Lecture - Kannan Ramchandran - On duality, encryption, sampling and learning https://www.youtube.com/watch?v=OeVImz3f2MI, it extended and detailed version of lecture from ISIT 2018 - Kannan Ramchandran - CODES for SPEED: the CLEAR advantage https://www.youtube.com/watch?v=HkUFn01hEPA
 
 Project from https://github.com/UCBASiCS/FFAST build under x64 Microsoft Visual Studio 2019.
