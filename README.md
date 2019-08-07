@@ -27,6 +27,10 @@ Run an FFAST experiment (-a) on randomly generated signals of length 124950 (-n 
 Run FFAST on input data saved in inFile.txt (-f inFile.txt)
 
   ./ffast -f inFile.txt
+  
+  
+  
+  
 References
 Computing a k-sparse n-length Discrete Fourier Transform using at most 4k samples and O(k logk) complexity -- S. Pawar and K. Ramchandran
 A robust FFAST framework for computing a k-sparse n-length DFT in O(k log n) sample complexity using sparse-graph codes -- S. Pawar and K. Ramchandran
